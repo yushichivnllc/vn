@@ -1197,7 +1197,5 @@ ul.related-posts{margin:0}
     list-style: none;
 }
 
-.post-cc {
-  height 300px
-  width: 500px
-}
+.post-cc{display:block;position:relative;width:200%;height:400%;object-fit:cover;z-index:1;transition:opacity .17s ease}
+  
